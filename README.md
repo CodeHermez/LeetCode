@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/CodeHermez/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0075-sort-colors](https://github.com/CodeHermez/LeetCode/tree/master/0075-sort-colors) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/CodeHermez/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Bit Manipulation
 |  |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/CodeHermez/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/CodeHermez/LeetCode/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/CodeHermez/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
