@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/CodeHermez/LeetCode/tree/master/0007-reverse-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/CodeHermez/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/CodeHermez/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
