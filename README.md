@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/CodeHermez/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/CodeHermez/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/CodeHermez/LeetCode/tree/master/0118-pascals-triangle) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/CodeHermez/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/CodeHermez/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Bit Manipulation
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/CodeHermez/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/CodeHermez/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -55,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/CodeHermez/LeetCode/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/CodeHermez/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+## Prefix Sum
+|  |
+| ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/CodeHermez/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 <!---LeetCode Topics End-->
