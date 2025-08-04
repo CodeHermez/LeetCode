@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/CodeHermez/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/CodeHermez/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/CodeHermez/LeetCode/tree/master/0118-pascals-triangle) |
+| [0940-fruit-into-baskets](https://github.com/CodeHermez/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/CodeHermez/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/CodeHermez/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Bit Manipulation
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/CodeHermez/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/CodeHermez/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/CodeHermez/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/CodeHermez/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Prefix Sum
 |  |
