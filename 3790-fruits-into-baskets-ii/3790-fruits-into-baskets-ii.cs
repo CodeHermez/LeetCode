@@ -37,6 +37,12 @@ public class Solution {
         for(int i=0;i<fruits.Length;i++)
             if(fruits[i]!=-1)
                 counter++;
+        
+        Console.Write("{");
+        for(int i=0; i<fruits.Length; i++){
+            Console.Write(fruits[i] + ", ");
+        }
+        Console.Write("}");
         return counter;
     }
 }
