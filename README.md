@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/CodeHermez/LeetCode/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/CodeHermez/LeetCode/tree/master/0231-power-of-two) |
+| [0900-reordered-power-of-2](https://github.com/CodeHermez/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/CodeHermez/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/CodeHermez/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/CodeHermez/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/CodeHermez/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/CodeHermez/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/CodeHermez/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/CodeHermez/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
 |  |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/CodeHermez/LeetCode/tree/master/0075-sort-colors) |
+| [0900-reordered-power-of-2](https://github.com/CodeHermez/LeetCode/tree/master/0900-reordered-power-of-2) |
 ## Sliding Window
 |  |
 | ------- |
@@ -88,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/CodeHermez/LeetCode/tree/master/0231-power-of-two) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/CodeHermez/LeetCode/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
