@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/CodeHermez/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0039-combination-sum](https://github.com/CodeHermez/LeetCode/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/CodeHermez/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/CodeHermez/LeetCode/tree/master/0118-pascals-triangle) |
 | [0940-fruit-into-baskets](https://github.com/CodeHermez/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/CodeHermez/LeetCode/tree/master/0900-reordered-power-of-2) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/CodeHermez/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
