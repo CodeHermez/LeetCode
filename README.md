@@ -105,4 +105,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/CodeHermez/LeetCode/tree/master/0039-combination-sum) |
+## Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/CodeHermez/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/CodeHermez/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/CodeHermez/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/CodeHermez/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 <!---LeetCode Topics End-->
