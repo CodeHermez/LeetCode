@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/CodeHermez/LeetCode/tree/master/0007-reverse-integer) |
+| [0166-fraction-to-recurring-decimal](https://github.com/CodeHermez/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/CodeHermez/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/CodeHermez/LeetCode/tree/master/0326-power-of-three) |
 | [0504-base-7](https://github.com/CodeHermez/LeetCode/tree/master/0504-base-7) |
@@ -45,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/CodeHermez/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0900-reordered-power-of-2](https://github.com/CodeHermez/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/CodeHermez/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/CodeHermez/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/CodeHermez/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0504-base-7](https://github.com/CodeHermez/LeetCode/tree/master/0504-base-7) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/CodeHermez/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
