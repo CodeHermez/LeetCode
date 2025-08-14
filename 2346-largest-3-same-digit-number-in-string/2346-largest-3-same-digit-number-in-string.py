@@ -6,8 +6,6 @@ class Solution:
             if num[x:x+3][0]== num[x:x+3][1] ==num[x:x+3][2]:
                     list.append(num[x:x+3])
         
-        if not len(list)==0:
-            return max(list)
-        else:
-            return ''
+        return max(list) if not len(list)==0 else ''
+        
      
