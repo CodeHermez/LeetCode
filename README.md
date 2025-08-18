@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/CodeHermez/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0504-base-7](https://github.com/CodeHermez/LeetCode/tree/master/0504-base-7) |
+| [0812-rotate-string](https://github.com/CodeHermez/LeetCode/tree/master/0812-rotate-string) |
 | [0851-goat-latin](https://github.com/CodeHermez/LeetCode/tree/master/0851-goat-latin) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/CodeHermez/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/CodeHermez/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/CodeHermez/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/CodeHermez/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
