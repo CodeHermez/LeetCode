@@ -2,7 +2,7 @@ public class Solution {
     public IList<int> MajorityElement(int[] nums) {
         int times = nums.Length/3;
         Dictionary<int,int> f = new Dictionary<int,int>();
-        List<int> res =  new List<int>();
+        List<int> r =  new List<int>();
 
         foreach(int item in nums)
         {    if(!f.ContainsKey(item))
@@ -12,8 +12,8 @@ public class Solution {
 
         foreach(var i in f)
             if(i.Value>times)
-                res.Add(i.Key);
+                r.Add(i.Key);
         
-        return res;
+        return r;
     }
 }
