@@ -27,7 +27,7 @@ class Solution(object):
             getDiag(True,l=r)
 
         for c in range(1,size):
-            getDiag(k=c)
+            getDiag(k=c,l=0)
             
         return grid
                 
