@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/CodeHermez/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/CodeHermez/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/CodeHermez/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2915-count-of-interesting-subarrays](https://github.com/CodeHermez/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3748-sort-matrix-by-diagonals](https://github.com/CodeHermez/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/CodeHermez/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/CodeHermez/LeetCode/tree/master/0229-majority-element-ii) |
 | [0900-reordered-power-of-2](https://github.com/CodeHermez/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/CodeHermez/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [2915-count-of-interesting-subarrays](https://github.com/CodeHermez/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/CodeHermez/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/CodeHermez/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2915-count-of-interesting-subarrays](https://github.com/CodeHermez/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 ## Segment Tree
 |  |
 | ------- |
