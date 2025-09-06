@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/CodeHermez/LeetCode/tree/master/0812-rotate-string) |
 | [0851-goat-latin](https://github.com/CodeHermez/LeetCode/tree/master/0851-goat-latin) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/CodeHermez/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/CodeHermez/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/CodeHermez/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
