@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/CodeHermez/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/CodeHermez/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2915-count-of-interesting-subarrays](https://github.com/CodeHermez/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/CodeHermez/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/CodeHermez/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/CodeHermez/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/CodeHermez/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2915-count-of-interesting-subarrays](https://github.com/CodeHermez/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/CodeHermez/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Segment Tree
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/CodeHermez/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/CodeHermez/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
