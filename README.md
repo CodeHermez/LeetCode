@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/CodeHermez/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/CodeHermez/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2915-count-of-interesting-subarrays](https://github.com/CodeHermez/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CodeHermez/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/CodeHermez/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/CodeHermez/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/CodeHermez/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/CodeHermez/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/CodeHermez/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [2915-count-of-interesting-subarrays](https://github.com/CodeHermez/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CodeHermez/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/CodeHermez/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/CodeHermez/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/CodeHermez/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CodeHermez/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
