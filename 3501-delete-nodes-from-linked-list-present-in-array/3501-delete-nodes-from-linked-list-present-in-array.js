@@ -15,16 +15,6 @@ var modifiedList = function(nums, head) {
     var now = checker
     nums=new Set(nums)
 
-    while(now.next!==null)
-    {
-        if(nums.has(now.next.val))
-            now.next= now.next.next
-        else
-            now = now.next
-    }
-
-    return checker.next
-
     // if (head===null)
     //     return head
     // for(const it of nums)
@@ -59,4 +49,14 @@ var modifiedList = function(nums, head) {
     //     }
     // }
     // return head
+
+    while(now.next!==null)
+    {
+        if(nums.has(now.next.val))
+            now.next= now.next.next
+        else
+            now = now.next
+    }
+
+    return checker.next
 };
