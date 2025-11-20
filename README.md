@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/CodeHermez/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/CodeHermez/LeetCode/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/CodeHermez/LeetCode/tree/master/0229-majority-element-ii) |
+| [0759-set-intersection-size-at-least-two](https://github.com/CodeHermez/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0940-fruit-into-baskets](https://github.com/CodeHermez/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/CodeHermez/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/CodeHermez/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/CodeHermez/LeetCode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/CodeHermez/LeetCode/tree/master/0229-majority-element-ii) |
+| [0759-set-intersection-size-at-least-two](https://github.com/CodeHermez/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-reordered-power-of-2](https://github.com/CodeHermez/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [3748-sort-matrix-by-diagonals](https://github.com/CodeHermez/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Sliding Window
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CodeHermez/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Greedy
+|  |
+| ------- |
+| [0759-set-intersection-size-at-least-two](https://github.com/CodeHermez/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 <!---LeetCode Topics End-->
